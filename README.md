@@ -19,7 +19,7 @@ The instructor will walk you through the exact process he does every week to dis
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-Anyone who wants to learn how to find undervalued cryptocurrency altcoins. Anyone who wants to learn how the instructor does his research when discovering potential coins to invest in. Anyone who has an interest in cryptocurrency investing. This course IS NOT for beginners and it isn't an advanced course. It is an intermediate course which is a great transition from our beginner's course.	
+<li>Anyone who wants to learn how to find undervalued cryptocurrency altcoins. Anyone who wants to learn how the instructor does his research when discovering potential coins to invest in. Anyone who has an interest in cryptocurrency investing. This course IS NOT for beginners and it isn't an advanced course. It is an intermediate course which is a great transition from our beginner's course.	<li>
 <DIV>
 
 ### Technical Requirements
